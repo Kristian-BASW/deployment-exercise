@@ -62,7 +62,7 @@ Try connecting the web app to your API. Display the minions you receive from the
 
 ## 10. Continue to the advanced tasks or skip them
 
-You can now choose to continue to the more advanced Docker Compose deployment tasks by checking out the `compose-deployment` branch.
+You can now choose to continue to the more advanced Docker Compose deployment tasks by opening the `ADVANCED.md`
 
 ## 11. Clean up
 

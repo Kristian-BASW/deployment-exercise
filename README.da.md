@@ -77,7 +77,7 @@ Prøv at se om du kan connecte web-appen til dit API. Her skal du vise de minion
 
 ## 10. Gå til advancerede opgaver eller spring over
 
-Du kan nu vælge at gå til de mere avancerede opgaver med docker compose deployment, ved at tjekke ud til branch compose-deployment.
+Du kan nu vælge at gå til de mere avancerede opgaver med docker compose deployment, ved at åbne `ADVANCED.md`.
 
 ## 11. Ryd op
 

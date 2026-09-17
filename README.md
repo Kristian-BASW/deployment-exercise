@@ -49,22 +49,8 @@ Take your .NET API from the previous lesson and put it in the `api` directory. M
 deployment-exercise/
 ├── README.md
 ├── web/
-│   ├── src/
-│   │   ├── App.tsx
-│   │   ├── APITester.tsx
-│   │   └── ...
-│   ├── package.json
-│   ├── bun.lock
-│   ├── bunfig.toml
-│   ├── bun-env.d.ts
-│   ├── tsconfig.json
-│   ├── Dockerfile
-│   ├── .dockerignore
-│   └── fly.toml
+│   ├── ...
 └── api/
-    ├── Program.cs
-    ├── MitApi.csproj
-    ├── appsettings.json
     └── ...
 ```
 

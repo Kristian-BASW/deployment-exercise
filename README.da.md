@@ -75,9 +75,9 @@ Herefter skal du lave api'et deployable med fly.io
 Prøv at se om du kan connecte web-appen til dit API. Her skal du vise de minions du får fra API'et.
 
 
-## 10. Gå til advancerede opgaver eller spring over
+## 10. Gå til den avancerede opgave eller spring over
 
-Du kan nu vælge at gå til de mere avancerede opgaver med docker compose deployment, ved at tjekke ud til branch compose-deployment.
+Deploy webappen og API'et som to containere på én Fly Machine i [den avancerede opgave](ADVANCED.da.md).
 
 ## 11. Ryd op
 

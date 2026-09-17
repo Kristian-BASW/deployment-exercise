@@ -60,9 +60,9 @@ Next, make the API deployable on Fly.io.
 
 Try connecting the web app to your API. Display the minions you receive from the API.
 
-## 10. Continue to the advanced tasks or skip them
+## 10. Continue to the advanced assignment or skip it
 
-You can now choose to continue to the more advanced Docker Compose deployment tasks by checking out the `compose-deployment` branch.
+Deploy the web app and API as two containers on one Fly Machine in the [advanced assignment](ADVANCED.md).
 
 ## 11. Clean up
 
